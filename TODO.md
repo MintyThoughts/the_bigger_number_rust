@@ -1,0 +1,4 @@
+- [x] Make it work
+- [ ] Make it work with arguments as numbers too
+- [ ] Make it work with a TUI too
+- [ ] Make it work with a GUI too
